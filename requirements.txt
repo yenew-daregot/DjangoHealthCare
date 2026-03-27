@@ -1,0 +1,23 @@
+Django==5.2.8
+djangorestframework==3.16.1
+djangorestframework-simplejwt==5.5.1
+django-cors-headers==4.9.0
+django-filter==24.3
+drf-yasg==1.21.8
+
+# Image processing
+Pillow==12.0.0
+
+# JWT support
+PyJWT==2.10.1
+
+# Real-time features (WebSockets)
+channels==4.0.0
+channels-redis==4.1.0
+
+# SMS and Push Notifications
+twilio==9.3.7
+requests==2.32.3
+
+# Additional notification services
+firebase-admin==6.5.0
